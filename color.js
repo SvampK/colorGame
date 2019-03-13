@@ -47,8 +47,9 @@ function generateRandomColor(num){
     //make an array
     var arr = [];
     //add num random colors to array******
-    for(i = 0; i < .length; i++){
-        
+    for(i = 0; i < num; i++){
+    // get random color and push i array
+    
     }
     //return the array
     return arr;
